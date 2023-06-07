@@ -1,0 +1,61 @@
+.Anaplan
+{
+    width:100%;
+    height:100%;
+    background-color: green;
+    position: relative;
+}
+.AT
+{
+    width:150px;
+    height:120px;
+    background-color: green;
+    position: relative;
+    transition: all 1s;
+}
+.bitis
+{
+    width:10px;
+    height:410px;
+    background-color: black;
+    position: relative;
+    float: right;
+    margin-right: 10px;   
+}
+
+.Diger
+{
+    width: 50%;
+    display: flex;
+    margin-top: 10px;
+    
+}
+.Diger button
+{
+    width: 70%;
+    display: flex;
+    background-color: red;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 5px;
+}
+.Baslatma
+{
+
+    width: 20%;
+
+    padding: 5px;
+}
+
+.Baslat
+{
+    text-align: center;
+
+}
+.Baslat:active
+{
+    transition: 0.2s;
+    text-align: center;
+    background-color: aqua;
+}
